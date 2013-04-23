@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESObject",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESQuery",
+	"type" : "normal"
+}

@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"hostName" : "PaulDeBruicker 4/21/2013 21:26",
+		"head:" : "PaulDeBruicker 4/23/2013 13:37",
+		"port" : "PaulDeBruicker 4/21/2013 21:26",
+		"get:data:" : "PaulDeBruicker 4/23/2013 14:07",
+		"get:contents:" : "PaulDeBruicker 4/23/2013 11:30",
+		"delete:" : "PaulDeBruicker 4/21/2013 21:36",
+		"typeExistsAt:" : "PaulDeBruicker 4/23/2013 14:07",
+		"get:" : "PaulDeBruicker 4/22/2013 14:28",
+		"post:data:" : "PaulDeBruicker 4/22/2013 17:01",
+		"indexExistsAt:" : "PaulDeBruicker 4/23/2013 13:41",
+		"put:data:" : "PaulDeBruicker 4/21/2013 21:37",
+		"client" : "PaulDeBruicker 4/21/2013 21:37"
+	},
+	"class" : {
+		"defaultHostName" : "PaulDeBruicker 4/21/2013 21:27",
+		"defaultPort" : "PaulDeBruicker 4/21/2013 21:27",
+		"defaultHttpClient" : "PaulDeBruicker 4/21/2013 20:34",
+		"httpClient" : "PaulDeBruicker 4/21/2013 20:34"
+	}
+}

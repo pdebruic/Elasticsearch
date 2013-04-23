@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "ESObject",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"version",
+		"index",
+		"type",
+		"content",
+		"created",
+		"modified"
+	],
+	"name" : "ESDocument",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"parseJsonFromString:" : "PaulDeBruicker 4/22/2013 14:31",
+		"ifResponse:isNotErrorThenDo:" : "PaulDeBruicker 4/23/2013 15:03",
+		"httpClient" : "PaulDeBruicker 4/23/2013 13:40",
+		"responseIsError:" : "PaulDeBruicker 4/23/2013 14:59",
+		"errorMessageFor:" : "PaulDeBruicker 4/23/2013 15:07",
+		"baseUrl" : "PaulDeBruicker 4/21/2013 21:23",
+		"name" : "PaulDeBruicker 4/21/2013 21:20",
+		"name:" : "PaulDeBruicker 4/21/2013 21:20"
+	},
+	"class" : { }
+}
