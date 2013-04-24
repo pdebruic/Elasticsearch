@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"sort:" : "PaulDeBruicker 4/24/2013 07:46",
+		"trackScores:" : "PaulDeBruicker 4/24/2013 07:46",
+		"fields:" : "PaulDeBruicker 4/24/2013 07:45",
+		"analyzeWildcard:" : "PaulDeBruicker 4/24/2013 07:44",
+		"search" : "PaulDeBruicker 4/24/2013 07:33",
+		"defaultField:" : "PaulDeBruicker 4/24/2013 07:45",
+		"queryString:" : "PaulDeBruicker 4/24/2013 07:44",
+		"lowercaseExpandedTerms:" : "PaulDeBruicker 4/24/2013 07:47",
+		"defaultOperator:" : "PaulDeBruicker 4/24/2013 07:45",
+		"explain:" : "PaulDeBruicker 4/24/2013 07:45",
+		"initialize" : "PaulDeBruicker 4/24/2013 07:42",
+		"timeout:" : "PaulDeBruicker 4/24/2013 07:46",
+		"queryUrl" : "PaulDeBruicker 4/24/2013 07:48",
+		"from:" : "PaulDeBruicker 4/24/2013 07:46",
+		"uriParameters" : "PaulDeBruicker 4/24/2013 08:01",
+		"size:" : "PaulDeBruicker 4/24/2013 07:46",
+		"searchType:" : "PaulDeBruicker 4/24/2013 07:47",
+		"analyzer:" : "PaulDeBruicker 4/24/2013 07:44"
+	},
+	"class" : { }
+}

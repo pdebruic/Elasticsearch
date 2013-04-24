@@ -1,3 +1,3 @@
 urls
 statusUrl
-	^self baseUrl addPathSegment: '_status'
+	^ self baseUrl addToPath: '_status'

@@ -1,3 +1,6 @@
 urls
-urlToGetDocument: anESDocument 
-	^self baseUrl addPathSegment: self name; addPathSegment: anESDocument type; addPathSegment: anESDocument id
+urlToGetDocument: anESDocument
+	^ self baseUrl
+		addToPath: self name;
+		addToPath: anESDocument type;
+		addToPath: anESDocument id

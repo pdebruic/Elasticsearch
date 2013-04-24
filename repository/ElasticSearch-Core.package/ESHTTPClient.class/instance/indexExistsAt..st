@@ -1,3 +1,3 @@
 testing
 indexExistsAt: aUrl
-	^ (self client headResponseStatusFor: aUrl) = 200
+	^ (self client headResponseStatusFor: aUrl url) = 200

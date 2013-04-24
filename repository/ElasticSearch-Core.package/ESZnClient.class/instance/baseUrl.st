@@ -1,6 +1,6 @@
 as yet unclassified
 baseUrl
-	^ ZnUrl new
+	^ self url
 		host: self hostName;
 		port: self port;
 		yourself

@@ -1,25 +1,28 @@
 {
 	"instance" : {
-		"replicas:" : "PaulDeBruicker 4/21/2013 21:20",
-		"getSettings" : "PaulDeBruicker 4/22/2013 14:39",
-		"deleteIndexNamed:" : "PaulDeBruicker 4/23/2013 15:10",
-		"replicas" : "PaulDeBruicker 4/21/2013 21:20",
-		"url" : "PaulDeBruicker 4/21/2013 21:23",
-		"shards" : "PaulDeBruicker 4/21/2013 21:20",
-		"shardsAndReplicaSettings" : "PaulDeBruicker 4/21/2013 21:45",
-		"getDocument:" : "PaulDeBruicker 4/22/2013 17:26",
-		"initialize" : "PaulDeBruicker 4/21/2013 21:19",
-		"createIndexNamed:" : "PaulDeBruicker 4/23/2013 15:10",
-		"searchUrl" : "PaulDeBruicker 4/23/2013 11:28",
-		"shards:" : "PaulDeBruicker 4/21/2013 21:20",
-		"searchUrlForType:" : "PaulDeBruicker 4/23/2013 11:53",
+		"getSettings" : "PaulDeBruicker 4/24/2013 10:04",
 		"indexExists" : "PaulDeBruicker 4/23/2013 13:40",
-		"statusUrl" : "PaulDeBruicker 4/22/2013 16:44",
-		"urlToGetDocument:" : "PaulDeBruicker 4/22/2013 17:20",
-		"searchFor:" : "PaulDeBruicker 4/22/2013 21:22"
+		"initialize" : "PaulDeBruicker 4/21/2013 21:19",
+		"searchUrl" : "PaulDeBruicker 4/23/2013 11:28",
+		"statusUrl" : "PaulDeBruicker 4/24/2013 10:04",
+		"replicas" : "PaulDeBruicker 4/21/2013 21:20",
+		"searchFor:" : "PaulDeBruicker 4/22/2013 21:22",
+		"shardsAndReplicaSettings" : "PaulDeBruicker 4/21/2013 21:45",
+		"replicas:" : "PaulDeBruicker 4/21/2013 21:20",
+		"createIndexNamed:" : "PaulDeBruicker 4/23/2013 15:10",
+		"getDocument:" : "PaulDeBruicker 4/22/2013 17:26",
+		"ensureExistence" : "PaulDeBruicker 4/23/2013 17:33",
+		"urlToGetDocument:" : "PaulDeBruicker 4/24/2013 10:05",
+		"searchUrlForType:" : "PaulDeBruicker 4/24/2013 10:04",
+		"deleteIndexNamed:" : "PaulDeBruicker 4/23/2013 15:10",
+		"url" : "PaulDeBruicker 4/24/2013 10:05",
+		"shards:" : "PaulDeBruicker 4/21/2013 21:20",
+		"shards" : "PaulDeBruicker 4/21/2013 21:20",
+		"addDocument:" : "PaulDeBruicker 4/23/2013 17:28"
 	},
 	"class" : {
 		"deleteIndex:" : "PaulDeBruicker 4/21/2013 21:35",
+		"indexNamed:" : "PaulDeBruicker 4/23/2013 17:33",
 		"createIndex:" : "PaulDeBruicker 4/21/2013 20:31"
 	}
 }

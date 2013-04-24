@@ -1,16 +1,14 @@
 {
 	"instance" : {
 		"results" : "PaulDeBruicker 4/23/2013 11:29",
-		"index" : "PaulDeBruicker 4/23/2013 11:29",
-		"setResultsFrom:" : "PaulDeBruicker 4/23/2013 13:29",
-		"search" : "PaulDeBruicker 4/23/2013 15:04",
 		"results:" : "PaulDeBruicker 4/23/2013 11:29",
 		"query:" : "PaulDeBruicker 4/23/2013 11:29",
+		"index:" : "PaulDeBruicker 4/23/2013 11:29",
+		"setResultsFrom:" : "PaulDeBruicker 4/23/2013 13:29",
+		"index" : "PaulDeBruicker 4/23/2013 11:29",
 		"queryString:" : "PaulDeBruicker 4/23/2013 11:18",
 		"query" : "PaulDeBruicker 4/23/2013 11:29",
-		"queryUrl" : "PaulDeBruicker 4/23/2013 11:48",
-		"searchUsingURI" : "PaulDeBruicker 4/23/2013 15:04",
-		"index:" : "PaulDeBruicker 4/23/2013 11:29"
+		"search" : "PaulDeBruicker 4/23/2013 15:04"
 	},
 	"class" : {
 		"index:" : "PaulDeBruicker 4/23/2013 11:17"

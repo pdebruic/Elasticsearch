@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESUrl",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESZnUrl",
+	"type" : "normal"
+}

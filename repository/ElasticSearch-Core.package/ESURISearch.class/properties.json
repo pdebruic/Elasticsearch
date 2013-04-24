@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PaulDeBruicker 4/24/2013 10:17",
+	"super" : "ESSearch",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"uriParameters"
+	],
+	"name" : "ESURISearch",
+	"type" : "normal"
+}

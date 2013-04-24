@@ -1,6 +1,6 @@
 urls
 urlForIndexing
 	^ self baseUrl
-		addPathSegment: self index name;
-		addPathSegment: self type;
-		addPathSegment: self id
+		addToPath: self index name;
+		addToPath: self type;
+		addToPath: self id

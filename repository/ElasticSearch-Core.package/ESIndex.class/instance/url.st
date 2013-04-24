@@ -1,3 +1,3 @@
 urls
 url
-	^ self baseUrl addPathSegment: self name
+	^ self baseUrl addToPath: self name

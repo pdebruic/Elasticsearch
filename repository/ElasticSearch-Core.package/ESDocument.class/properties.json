@@ -12,7 +12,8 @@
 		"type",
 		"content",
 		"created",
-		"modified"
+		"modified",
+		"parents"
 	],
 	"name" : "ESDocument",
 	"type" : "normal"
