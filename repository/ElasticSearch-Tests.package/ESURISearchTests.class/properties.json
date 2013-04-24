@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESSearchTests",
+	"category" : "ElasticSearch-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESURISearchTests",
+	"type" : "normal"
+}
