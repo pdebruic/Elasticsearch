@@ -1,3 +1,3 @@
 accessing
 queryString: anObject
-	queryString := anObject
+	self query: anObject

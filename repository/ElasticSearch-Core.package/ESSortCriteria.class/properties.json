@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ESQuery",
+	"category" : "ElasticSearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fieldName",
+		"ascending",
+		"mode"
+	],
+	"name" : "ESSortCriteria",
+	"type" : "normal"
+}

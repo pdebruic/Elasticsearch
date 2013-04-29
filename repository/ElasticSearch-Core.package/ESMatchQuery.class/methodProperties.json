@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"fuzziness:" : "PaulDeBruicker 4/26/2013 08:07",
+		"simpleJson" : "PaulDeBruicker 4/26/2013 09:01",
+		"modifiedJson" : "PaulDeBruicker 4/26/2013 09:00",
+		"matchPhrase" : "PaulDeBruicker 4/26/2013 08:04",
+		"matchPhrasePrefix" : "PaulDeBruicker 4/26/2013 08:05",
+		"cutoffFrequency:" : "PaulDeBruicker 4/26/2013 06:48",
+		"jsonStringContents" : "PaulDeBruicker 4/26/2013 09:00",
+		"boolean:" : "PaulDeBruicker 4/26/2013 06:48",
+		"maxExpansions:" : "PaulDeBruicker 4/26/2013 08:08"
+	},
+	"class" : { }
+}

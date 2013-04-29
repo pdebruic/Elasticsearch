@@ -1,3 +1,3 @@
 accessing
 queryString
-	^ queryString
+	^ self query
