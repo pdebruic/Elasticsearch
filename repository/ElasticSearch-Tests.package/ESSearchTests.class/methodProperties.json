@@ -1,8 +1,11 @@
 {
 	"instance" : {
-		"testSimpleSearch" : "PaulDeBruicker 4/23/2013 14:00",
+		"testSearchUsingMatchQuery" : "PaulDeBruicker 4/27/2013 09:05",
 		"setUp" : "PaulDeBruicker 4/24/2013 07:59",
-		"createSearch" : "PaulDeBruicker 4/24/2013 07:59"
+		"testQueryStringSearch" : "PaulDeBruicker 4/27/2013 09:04",
+		"testSearchUsingMoreLikeThisQuery" : "PaulDeBruicker 4/27/2013 09:05",
+		"testSearchUsingFuzzyLikeThisQuery" : "PaulDeBruicker 4/27/2013 09:05",
+		"createSearch" : "PaulDeBruicker 4/26/2013 08:51"
 	},
 	"class" : { }
 }

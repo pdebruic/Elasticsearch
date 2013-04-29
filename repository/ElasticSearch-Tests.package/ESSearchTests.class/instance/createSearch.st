@@ -1,4 +1,3 @@
 as yet unclassified
 createSearch
-	search := ESSearch index: index.
-	search queryString: 'documents'
+	search := ESSearch index: index
