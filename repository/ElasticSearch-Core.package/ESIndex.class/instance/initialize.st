@@ -1,5 +1,5 @@
 initialization
 initialize
 	super initialize.
-	shards := 1.
+	shards := 5.
 	replicas := 1

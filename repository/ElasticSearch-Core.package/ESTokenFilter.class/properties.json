@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESAnalyzer",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESTokenFilter",
+	"type" : "normal"
+}

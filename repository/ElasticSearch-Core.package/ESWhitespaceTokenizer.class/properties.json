@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESTokenizer",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESWhitespaceTokenizer",
+	"type" : "normal"
+}

@@ -1,3 +1,3 @@
 urls
 searchUrl
-	^ self searchUrlForType: ''
+	^ self searchUrlForType: self type
