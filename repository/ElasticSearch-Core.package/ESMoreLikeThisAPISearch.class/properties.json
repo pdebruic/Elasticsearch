@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "PaulDeBruicker 4/24/2013 10:17",
+	"commentStamp" : "",
 	"super" : "ESAPISearch",
 	"category" : "ElasticSearch-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "ESURISearch",
+	"instvars" : [
+		"docId",
+		"docType"
+	],
+	"name" : "ESMoreLikeThisAPISearch",
 	"type" : "normal"
 }

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ESSearch",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"uriParameters"
+	],
+	"name" : "ESAPISearch",
+	"type" : "normal"
+}

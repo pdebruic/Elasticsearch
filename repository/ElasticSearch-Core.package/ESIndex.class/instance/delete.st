@@ -1,3 +1,4 @@
 initialization
 delete
-	self deleteIndexNamed: self name
+	self indexExists
+		ifTrue: [ self deleteIndexNamed: self name ]

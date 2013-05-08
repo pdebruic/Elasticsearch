@@ -1,4 +1,4 @@
-search
+actions
 search
 	| response |
 	response := self parseJsonFromString: (self httpClient get: self queryUrl).
