@@ -1,5 +1,6 @@
 {
 	"instance" : {
+		"testMultiFieldProperty" : "PaulDeBruicker 5/10/2013 06:53",
 		"testStringProperty" : "PaulDeBruicker 5/6/2013 17:06"
 	},
 	"class" : { }
