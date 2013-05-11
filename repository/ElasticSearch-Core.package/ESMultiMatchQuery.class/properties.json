@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESMatchQuery",
+	"category" : "ElasticSearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESMultiMatchQuery",
+	"type" : "normal"
+}

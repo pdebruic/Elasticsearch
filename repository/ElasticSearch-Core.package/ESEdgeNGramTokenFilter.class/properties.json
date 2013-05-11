@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESNGramTokenFilter",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESEdgeNGramTokenFilter",
+	"type" : "normal"
+}

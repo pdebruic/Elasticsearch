@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ESMappingProperty",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"includeDefaultInAll",
+		"fields"
+	],
+	"name" : "ESMultiFieldMappingProperty",
+	"type" : "normal"
+}
