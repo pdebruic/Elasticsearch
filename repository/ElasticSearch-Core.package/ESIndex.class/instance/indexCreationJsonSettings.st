@@ -6,4 +6,4 @@ indexCreationJsonSettings
 		ifTrue: [ d1 at: 'settings' put: self settingsJsonContent ].
 	self hasMapping
 		ifTrue: [ d1 at: 'mappings' put: self mapping jsonContent ].
-	^ d1 asJsonString
+	^ d1 

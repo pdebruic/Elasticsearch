@@ -6,7 +6,7 @@ parseContentFromJson: aJsonObject fromIndex: anESIndex
 		index: anESIndex;
 		type: (aJsonObject at: '_type');
 		version: (aJsonObject at: '_version').
-	(aJsonObject at: '_source') asDictionary
+	(aJsonObject at: '_source') 
 		keysAndValuesDo: [ :selector :value | 
 			| newValue |
 			newValue := value.
