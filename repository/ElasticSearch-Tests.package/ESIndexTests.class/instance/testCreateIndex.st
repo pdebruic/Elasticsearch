@@ -22,4 +22,4 @@ testCreateIndex
 						yourself).
 	mapping addMappingProperty: properties.
 	index mapping: mapping.
-	self assert: index indexCreationJsonSettings equals:'{"mappings":{"mp":{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}},"settings":{"shards":34,"analysis":{"analyzer":{"std":{"type":"standard"}}},"replicas":19}}'
+	self assert: index indexCreationJsonSettings equals:(Json readFrom: '{"mappings":{"mp":{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}},"settings":{"shards":34,"analysis":{"analyzer":{"std":{"type":"standard"}}},"replicas":19}}' readStream)

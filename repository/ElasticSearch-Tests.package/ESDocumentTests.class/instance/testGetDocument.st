@@ -5,4 +5,4 @@ testGetDocument
 	self assert: document hasId.
 	self assert: document hasVersion.
 	retrievedDocument := index getDocument: document.
-	self assert: document equals: retrievedDocument
+	self assert: document content equals: retrievedDocument content
