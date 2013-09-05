@@ -4,7 +4,7 @@ shardsAndReplicaSettings
 		ifTrue: [ String new	"use the defaults" ]
 		ifFalse: [ 
 			| dict |
-			dict := Dictionary new.
+			dict := JsonObject new.
 			dict at: 'shards' put: self shards.
 			dict at: 'replicas' put: self replicas.
 			'settings' -> dict ]

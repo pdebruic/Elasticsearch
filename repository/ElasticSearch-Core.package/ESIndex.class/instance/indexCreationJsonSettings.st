@@ -1,7 +1,7 @@
 initialization
 indexCreationJsonSettings
 	| d1 |
-	d1 := Dictionary new.
+	d1 := JsonObject new.
 	self hasSettings
 		ifTrue: [ d1 at: 'settings' put: self settingsJsonContent ].
 	self hasMapping

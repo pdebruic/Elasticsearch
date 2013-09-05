@@ -1,7 +1,7 @@
 initialization
 settingsJsonContent
 	| dict |
-	dict := Dictionary new.
+	dict := JsonObject new.
 	dict at: 'shards' put: self shards.
 	dict at: 'replicas' put: self replicas.
 	self hasAnalysis

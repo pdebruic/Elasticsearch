@@ -1,3 +1,3 @@
 modifiers
 resetModifiers
-	modifiers := Dictionary new
+	modifiers := JsonObject new
