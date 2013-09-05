@@ -16,5 +16,9 @@ testMultiFieldProperty
 		addField: prop1;
 		addField: prop2.
 	self
-		assert: multiField jsonContent asJsonString
-		equals: '{"type":"multi_field","fields":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"},"secondary":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}'
+		assert: multiField jsonContent
+		equals:
+			(Json
+				readFrom:
+					'{"type":"multi_field","fields":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"},"secondary":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}'
+						readStream)

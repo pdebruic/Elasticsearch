@@ -5,4 +5,4 @@ testNGram
 		name: 'my_nGram';
 		maxGram: 20;
 		yourself.
-	self assert: ngram jsonContent asJsonString equals:'{"type":"nGram","max_gram":20}'
+	self assert: ngram jsonContent equals: (Json readFrom: '{"type":"nGram","max_gram":20}' readStream)

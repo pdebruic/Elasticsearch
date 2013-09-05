@@ -7,4 +7,4 @@ testBasic
 	analysis := ESAnalysis new
 		addAnalyzer: analyzer;
 		yourself.
-	self assert: analysis jsonContent asJsonString equals:'{"analyzer":{"std":{"type":"standard"}}}'
+	self assert: analysis jsonContent equals: (Json readFrom: '{"analyzer":{"std":{"type":"standard"}}}' readStream)

@@ -11,5 +11,9 @@ testStringProperty
 		addProperty: prop;
 		name: 'tweet'.
 	self
-		assert: properties jsonContent asJsonString
-		equals:'{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}'
+		assert: properties jsonContent
+		equals:
+			(Json
+				readFrom:
+					'{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}'
+						readStream)

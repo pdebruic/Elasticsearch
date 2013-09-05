@@ -7,4 +7,8 @@ testCustomAnalyzer
 		tokenizer: 'standard';
 		filter: (Array with: 'my_nGram');
 		charFilter: (Array with: 'myCharFilter').
-	self assert: analyzer jsonContent asJsonString equals: '{"type":"custom","tokenizer":"standard","filter":["my_nGram"],"char_filter":["myCharFilter"]}'
+	self
+		assert: analyzer jsonContent
+		equals:
+			(Json
+				readFrom: '{"type":"custom","tokenizer":"standard","filter":["my_nGram"],"char_filter":["myCharFilter"]}' readStream)

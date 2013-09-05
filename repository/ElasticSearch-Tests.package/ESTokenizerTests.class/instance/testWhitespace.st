@@ -4,4 +4,4 @@ testWhitespace
 	wsp := ESWhitespaceTokenizer new
 		name: 'whitespace_tokenizer';
 		yourself.
-	self assert: wsp jsonContent asJsonString equals:'{"type":"whitespace"}'
+	self assert: wsp jsonContent equals: (Json readFrom: '{"type":"whitespace"}' readStream)

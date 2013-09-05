@@ -14,6 +14,9 @@ testStringProperty
 		addMappingProperty: properties;
 		yourself.
 	self
-		assert: mapping jsonContent asJsonString
+		assert: mapping jsonContent
 		equals:
-			'{"tweet":{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}}'
+			(Json
+				readFrom:
+					'{"tweet":{"properties":{"message":{"store":"yes","index_analyzer":"partial_word","search_analyzer":"full_word","type":"string"}}}}'
+						readStream)
