@@ -1,17 +1,18 @@
 {
 	"instance" : {
-		"asJsonString" : "PaulDeBruicker 9/5/2013 09:24",
+		"modifiers:" : "PaulDeBruicker 4/26/2013 06:42",
 		"resetModifiers" : "PaulDeBruicker 9/5/2013 09:24",
 		"prefixLength:" : "PaulDeBruicker 4/26/2013 08:42",
 		"query:" : "PaulDeBruicker 4/26/2013 06:42",
 		"boost:" : "PaulDeBruicker 4/26/2013 08:36",
+		"jsonStringContents" : "PaulDeBruicker 1/7/2014 16:40",
 		"hasModifiers" : "PaulDeBruicker 4/26/2013 08:11",
 		"initialize" : "PaulDeBruicker 9/5/2013 09:24",
 		"query" : "PaulDeBruicker 4/26/2013 06:42",
 		"field" : "PaulDeBruicker 4/26/2013 06:45",
 		"modifiers" : "PaulDeBruicker 4/26/2013 06:42",
 		"field:" : "PaulDeBruicker 4/26/2013 06:42",
-		"modifiers:" : "PaulDeBruicker 4/26/2013 06:42",
+		"asJsonString" : "PaulDeBruicker 1/7/2014 16:40",
 		"analyzer:" : "PaulDeBruicker 4/26/2013 08:36",
 		"hasField" : "PaulDeBruicker 4/26/2013 06:45"
 	},
