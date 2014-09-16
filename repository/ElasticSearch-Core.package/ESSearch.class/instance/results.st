@@ -1,3 +1,3 @@
 accessing
 results
-	^ results
+	^ results ifNil: [ results := Array new: self numberOfResultsInIndex ]

@@ -8,7 +8,11 @@
 	"instvars" : [
 		"index",
 		"queries",
-		"results"
+		"results",
+		"sortParameters",
+		"indexOfFirstResult",
+		"numberOfResultsToFetch",
+		"numberOfResultsInIndex"
 	],
 	"name" : "ESSearch",
 	"type" : "normal"

@@ -1,14 +1,29 @@
 {
 	"instance" : {
-		"results" : "PaulDeBruicker 4/23/2013 11:29",
-		"results:" : "PaulDeBruicker 4/23/2013 11:29",
-		"jsonQuery" : "PaulDeBruicker 4/29/2013 07:15",
-		"queries" : "PaulDeBruicker 4/27/2013 09:05",
-		"addQuery:" : "PaulDeBruicker 4/27/2013 09:05",
-		"index:" : "PaulDeBruicker 4/23/2013 11:29",
-		"setResultsFrom:" : "PaulDeBruicker 4/23/2013 13:29",
+		"indexOfFirstResult" : "PaulDeBruicker 9/15/2014 19:51",
+		"searchUrl" : "PaulDeBruicker 9/15/2014 20:17",
+		"newlyFetchedEntries" : "PaulDeBruicker 9/15/2014 20:31",
+		"results" : "PaulDeBruicker 9/15/2014 20:46",
+		"sortByScore" : "PaulDeBruicker 9/15/2014 19:40",
+		"indexOfFirstResult:" : "PaulDeBruicker 9/15/2014 19:52",
 		"index" : "PaulDeBruicker 4/23/2013 11:29",
-		"search" : "PaulDeBruicker 5/7/2013 11:19"
+		"numberOfResultsMaxtLimit" : "PaulDeBruicker 9/15/2014 19:53",
+		"jsonQuery" : "PaulDeBruicker 9/15/2014 20:02",
+		"setResultsFrom:" : "PaulDeBruicker 9/15/2014 20:46",
+		"results:" : "PaulDeBruicker 4/23/2013 11:29",
+		"numberOfResultsToFetch" : "PaulDeBruicker 9/15/2014 20:17",
+		"addQuery:" : "PaulDeBruicker 4/27/2013 09:05",
+		"queries" : "PaulDeBruicker 4/27/2013 09:05",
+		"numberOfResultsInIndex:" : "PaulDeBruicker 9/15/2014 20:20",
+		"numberOfResultsToFetch:" : "PaulDeBruicker 9/15/2014 20:17",
+		"addSortCriteria:" : "PaulDeBruicker 9/15/2014 19:40",
+		"sortParameters" : "PaulDeBruicker 9/15/2014 19:38",
+		"sortByDateNewestFirst" : "PaulDeBruicker 9/15/2014 19:40",
+		"hasSortCriteria" : "PaulDeBruicker 9/15/2014 20:02",
+		"search" : "PaulDeBruicker 9/15/2014 20:08",
+		"index:" : "PaulDeBruicker 4/23/2013 11:29",
+		"numberOfResultsInIndex" : "PaulDeBruicker 9/15/2014 20:20",
+		"hasResults" : "PaulDeBruicker 9/15/2014 20:23"
 	},
 	"class" : {
 		"index:" : "PaulDeBruicker 4/23/2013 11:17"
