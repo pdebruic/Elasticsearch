@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 hostName
 	^ self class defaultHostName

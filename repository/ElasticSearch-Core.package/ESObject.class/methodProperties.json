@@ -1,8 +1,9 @@
 {
 	"instance" : {
 		"parseJsonFromString:" : "PaulDeBruicker 4/22/2013 14:31",
-		"ifResponse:isNotErrorThenDo:" : "PaulDeBruicker 4/23/2013 15:03",
+		"logToTranscript" : "MasashiUmezawa 6/10/2015 14:08",
 		"httpClient" : "PaulDeBruicker 4/23/2013 13:40",
+		"ifResponse:isNotErrorThenDo:" : "PaulDeBruicker 4/23/2013 15:03",
 		"responseIsError:" : "PaulDeBruicker 4/23/2013 14:59",
 		"errorMessageFor:" : "PaulDeBruicker 4/23/2013 15:07",
 		"baseUrl" : "PaulDeBruicker 4/21/2013 21:23",
