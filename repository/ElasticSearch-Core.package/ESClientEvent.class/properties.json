@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "ESClientEvent",
+	"super" : "ZnClientLogEvent",
 	"category" : "ElasticSearch-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "ESJsonBodyAttachEvent",
+	"instvars" : [
+		"jsonString"
+	],
+	"name" : "ESClientEvent",
 	"type" : "normal"
 }

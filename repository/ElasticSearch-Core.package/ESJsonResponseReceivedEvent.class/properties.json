@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ESJsonBodyAttachEvent",
+	"name" : "ESJsonResponseReceivedEvent",
 	"type" : "normal"
 }

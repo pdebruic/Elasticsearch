@@ -1,3 +1,6 @@
 http-method
 get: aUrl
-	^ self client get: aUrl url
+	| response |
+	response := self client get: aUrl url.
+	self client logLevel > 2 ifTrue: [self emitJsonResponseReceivedEvent: response].
+	^response
