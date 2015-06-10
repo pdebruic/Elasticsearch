@@ -12,7 +12,8 @@
 		"sortParameters",
 		"indexOfFirstResult",
 		"numberOfResultsToFetch",
-		"numberOfResultsInIndex"
+		"numberOfResultsInIndex",
+		"numberOfHits"
 	],
 	"name" : "ESSearch",
 	"type" : "normal"
