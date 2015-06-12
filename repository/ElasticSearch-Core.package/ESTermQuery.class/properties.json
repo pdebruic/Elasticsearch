@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ShoYoshida 6/11/2015 00:46",
+	"super" : "ESQuery",
+	"category" : "ElasticSearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESTermQuery",
+	"type" : "normal"
+}
