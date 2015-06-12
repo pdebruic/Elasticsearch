@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESAggregation",
+	"category" : "ElasticSearch-Core-Aggregations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESTermsAggregation",
+	"type" : "normal"
+}

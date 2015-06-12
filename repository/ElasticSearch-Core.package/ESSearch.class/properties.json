@@ -13,7 +13,9 @@
 		"indexOfFirstResult",
 		"numberOfResultsToFetch",
 		"numberOfResultsInIndex",
-		"numberOfHits"
+		"numberOfHits",
+		"aggregations",
+		"aggregateResult"
 	],
 	"name" : "ESSearch",
 	"type" : "normal"
