@@ -1,4 +1,3 @@
 accessing
 aggregationName
-	
-	^ aggregationName ifNil:[ self aggregationType, '_', self field ].
+	^ aggregationName ifNil:[ aggregationName := self type ].

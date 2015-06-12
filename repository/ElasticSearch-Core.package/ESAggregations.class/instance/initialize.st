@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	aggregations  := OrderedCollection new
+	aggregations  := Dictionary  new

@@ -1,4 +1,3 @@
 accessing
-field: anObject
-	
-	field := anObject
+field: aString
+	self aggregationBody at: 'field' put: aString

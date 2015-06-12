@@ -1,3 +1,3 @@
 private
-aggregationType
+type
 	^ 'avg'

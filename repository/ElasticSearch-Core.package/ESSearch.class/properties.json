@@ -15,7 +15,8 @@
 		"numberOfResultsInIndex",
 		"numberOfHits",
 		"aggregations",
-		"aggregateResult"
+		"aggregateResult",
+		"uriParameters"
 	],
 	"name" : "ESSearch",
 	"type" : "normal"

@@ -1,14 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "JsonObject",
 	"category" : "ElasticSearch-Core-Aggregations",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"modifiers",
-		"field",
-		"aggregationName"
+		"aggregationName",
+		"aggregationBody",
+		"aggregationType"
 	],
 	"name" : "ESAggregation",
 	"type" : "normal"

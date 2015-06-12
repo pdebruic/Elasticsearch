@@ -1,4 +1,3 @@
 accessing
 field
-	
-	^ field
+	^ self aggregationBody at: 'field'

@@ -1,3 +1,3 @@
 private
-aggregationType
+type
 	^ 'sum'

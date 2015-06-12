@@ -1,3 +1,3 @@
 testing
 hasAggregations
-	^ self aggregations notEmpty
+	^ self aggregations isNotEmpty

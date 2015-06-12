@@ -1,17 +1,16 @@
 {
 	"instance" : {
-		"aggregationName" : "ShoYoshida 6/10/2015 16:39",
-		"modifiedJson" : "ShoYoshida 6/10/2015 17:27",
-		"hasModifiers" : "ShoYoshida 6/10/2015 13:56",
-		"jsonStringContents" : "ShoYoshida 6/10/2015 13:57",
-		"initialize" : "ShoYoshida 6/10/2015 13:55",
-		"aggregationName:" : "ShoYoshida 6/10/2015 16:00",
-		"aggregationType" : "ShoYoshida 6/10/2015 14:25",
-		"field" : "ShoYoshida 6/10/2015 14:16",
-		"field:" : "ShoYoshida 6/10/2015 14:16",
-		"asJsonString" : "ShoYoshida 6/10/2015 15:27",
-		"hasField" : "ShoYoshida 6/10/2015 13:56",
-		"resetModifiers" : "ShoYoshida 6/10/2015 13:56"
+		"aggregationName" : "ShoYoshida 6/12/2015 13:49",
+		"aggregationType:" : "ShoYoshida 6/12/2015 13:28",
+		"aggregationBody" : "ShoYoshida 6/12/2015 13:28",
+		"field" : "ShoYoshida 6/12/2015 13:49",
+		"aggregationType" : "ShoYoshida 6/12/2015 13:28",
+		"aggregationName:" : "ShoYoshida 6/12/2015 18:05",
+		"initialize:" : "ShoYoshida 6/12/2015 14:41",
+		"field:" : "ShoYoshida 6/12/2015 13:19",
+		"addAggregation:" : "ShoYoshida 6/12/2015 14:43",
+		"aggregationBody:" : "ShoYoshida 6/12/2015 13:28",
+		"type" : "ShoYoshida 6/12/2015 13:13"
 	},
 	"class" : { }
 }

@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"uriParameters"
-	],
+	"instvars" : [ ],
 	"name" : "ESAPISearch",
 	"type" : "normal"
 }

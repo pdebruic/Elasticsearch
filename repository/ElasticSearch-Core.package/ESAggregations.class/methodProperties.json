@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"hasAggregations" : "ShoYoshida 6/11/2015 00:05",
+		"hasAggregations" : "ShoYoshida 6/12/2015 14:16",
 		"aggregations" : "ShoYoshida 6/11/2015 00:14",
-		"initialize" : "ShoYoshida 6/11/2015 00:03",
+		"initialize" : "ShoYoshida 6/12/2015 14:15",
 		"aggregations:" : "ShoYoshida 6/11/2015 00:14",
-		"addAggregation:" : "ShoYoshida 6/11/2015 00:03",
-		"asJsonString" : "ShoYoshida 6/11/2015 00:10"
+		"addAggregation:" : "ShoYoshida 6/12/2015 14:17",
+		"asJsonString" : "ShoYoshida 6/12/2015 14:11"
 	},
 	"class" : { }
 }

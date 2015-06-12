@@ -1,3 +1,3 @@
 accesing
 addAggregation: anAggregations
-	self aggregations add: anAggregations
+	self aggregations addAll: anAggregations
