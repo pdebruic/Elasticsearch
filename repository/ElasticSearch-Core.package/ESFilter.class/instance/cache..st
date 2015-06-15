@@ -1,3 +1,3 @@
 as yet unclassified
 cache: aBoolean
-	self modifiers at: '_cache' put: aBoolean
+	self  at: '_cache' put: aBoolean

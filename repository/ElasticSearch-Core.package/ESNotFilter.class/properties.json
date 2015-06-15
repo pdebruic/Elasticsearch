@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "JsonObject",
+	"super" : "ESFilter",
 	"category" : "ElasticSearch-Core-Filter",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"modifiers"
+		"filterList"
 	],
-	"name" : "ESFilter",
+	"name" : "ESNotFilter",
 	"type" : "normal"
 }

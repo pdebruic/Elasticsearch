@@ -1,3 +1,3 @@
-as yet unclassified
+public
 jsonStringContents
-	^ self modifiers
+	^ self
