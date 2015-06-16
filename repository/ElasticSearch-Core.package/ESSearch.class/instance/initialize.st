@@ -1,4 +1,4 @@
 parameters
 initialize
 	super initialize.
-	uriParameters := JsonObject new
+	uriParameters := Dictionary new

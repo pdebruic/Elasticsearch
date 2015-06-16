@@ -1,3 +1,3 @@
 url creation
 searchUrl
-	^ self searchUrlFrom: self indexOfFirstResult size: self numberOfResultsToFetch
+	^ self searchUrlWithParams: self uriParameters
