@@ -1,4 +1,4 @@
-as yet unclassified
+public
 onField: aFieldToFilter forValue: aSingleTerm
 	| obj |
 	obj := JsonObject new.
