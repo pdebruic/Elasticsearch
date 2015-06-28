@@ -1,3 +1,3 @@
 urls
 countUrl
-	^ self baseUrl addToPath: '_count'
+	^ self countUrlForType: self type
