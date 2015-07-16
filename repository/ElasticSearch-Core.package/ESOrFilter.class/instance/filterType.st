@@ -1,3 +1,3 @@
-private
+constants
 filterType
 	^ 'or'
