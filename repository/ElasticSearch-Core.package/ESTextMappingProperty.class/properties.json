@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "ESFilter",
+	"super" : "ESStringMappingProperty",
 	"category" : "ElasticSearch-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ESTermFilter",
+	"name" : "ESTextMappingProperty",
 	"type" : "normal"
 }

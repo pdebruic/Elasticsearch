@@ -1,3 +1,3 @@
 as yet unclassified
-filterType
-	^ 'term'
+type
+  ^ 'text'

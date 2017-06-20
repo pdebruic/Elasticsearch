@@ -9,11 +9,5 @@ jsonQuery
 					idx = self queries size
 						ifFalse: [ s nextPutAll: ', ' ] ].
 			self hasSortCriteria
-				ifTrue: [ 
-					s position > 1 ifTrue:[ s nextPutAll: ', '. ].
-					s nextPutAll: self sortParameters asJsonString ].
-			self hasAggregations
-				ifTrue: [ 
-					s position > 1 ifTrue:[ s nextPutAll: ', '. ].
-					s nextPutAll: self aggregations asJsonString ].
+				ifTrue: [ s nextPutAll: self sortParameters asJsonString ].
 			s nextPut: $} ]

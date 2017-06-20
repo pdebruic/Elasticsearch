@@ -1,11 +1,10 @@
 {
 	"instance" : {
-		"cache:" : "ShoYoshida 6/15/2015 21:18",
+		"cache:" : "PaulDeBruicker 1/7/2014 16:01",
 		"filterType" : "PaulDeBruicker 1/7/2014 16:07",
-		"not" : "ShoYoshida 6/22/2015 11:31",
-		"jsonStringContents" : "ShoYoshida 6/15/2015 21:21",
-		"OR:" : "ShoYoshida 6/22/2015 18:30",
-		"AND:" : "ShoYoshida 6/22/2015 18:30"
+		"initialize" : "PaulDeBruicker 1/7/2014 16:01",
+		"jsonStringContents" : "PaulDeBruicker 1/9/2014 17:44",
+		"modifiers" : "PaulDeBruicker 1/7/2014 16:01"
 	},
 	"class" : { }
 }
