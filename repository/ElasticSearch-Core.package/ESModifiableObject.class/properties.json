@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ESObject",
+	"category" : "Elasticsearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"field",
+		"modifiers"
+	],
+	"name" : "ESModifiableObject",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+constants
+type
+	self subclassResponsibility 

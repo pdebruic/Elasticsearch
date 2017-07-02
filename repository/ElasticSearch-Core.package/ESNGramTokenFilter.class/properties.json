@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ESTokenFilter",
-	"category" : "ElasticSearch-Core",
+	"category" : "Elasticsearch-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

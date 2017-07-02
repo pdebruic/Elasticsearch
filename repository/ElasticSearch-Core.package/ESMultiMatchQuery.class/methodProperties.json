@@ -1,9 +1,10 @@
 {
 	"instance" : {
+		"jsonWriteContentValueOn:" : "ShoYoshida 1/9/2016 10:34",
+		"useDisMax:" : "PaulDeBruicker 5/10/2013 07:23",
+		"queryType" : "ShoYoshida 1/9/2016 10:19",
 		"tieBreaker:" : "PaulDeBruicker 5/10/2013 07:24",
-		"fields:" : "PaulDeBruicker 5/10/2013 07:22",
-		"modifiedJson" : "PaulDeBruicker 9/5/2013 09:24",
-		"useDisMax:" : "PaulDeBruicker 5/10/2013 07:23"
+		"fields:" : "ShoYoshida 1/7/2016 22:41"
 	},
 	"class" : { }
 }

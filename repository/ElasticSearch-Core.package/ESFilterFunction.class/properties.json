@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESScoreFunction",
+	"category" : "Elasticsearch-Core-Functions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESFilterFunction",
+	"type" : "normal"
+}

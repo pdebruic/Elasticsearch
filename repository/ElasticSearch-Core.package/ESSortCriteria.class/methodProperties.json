@@ -1,23 +1,16 @@
 {
 	"instance" : {
-		"fieldName" : "PaulDeBruicker 4/27/2013 08:42",
-		"mode" : "PaulDeBruicker 4/27/2013 08:42",
-		"sortDescending" : "PaulDeBruicker 4/27/2013 08:44",
-		"ascending" : "PaulDeBruicker 4/27/2013 08:42",
-		"useAvg" : "PaulDeBruicker 4/27/2013 08:51",
-		"hasOrder" : "PaulDeBruicker 4/27/2013 08:43",
 		"useMax" : "PaulDeBruicker 4/27/2013 08:51",
-		"sortAscending" : "PaulDeBruicker 4/27/2013 08:44",
-		"useMin" : "PaulDeBruicker 4/27/2013 08:50",
-		"jsonStringContents" : "PaulDeBruicker 9/5/2013 09:24",
+		"useAvg" : "PaulDeBruicker 4/27/2013 08:51",
+		"sortDescending" : "ShoYoshida 1/11/2016 10:42",
+		"sortAscending" : "ShoYoshida 1/11/2016 10:42",
 		"useSum" : "PaulDeBruicker 4/27/2013 08:51",
-		"mode:" : "PaulDeBruicker 4/27/2013 08:42",
-		"addOrderTo:" : "PaulDeBruicker 4/27/2013 08:48",
-		"fieldName:" : "PaulDeBruicker 4/27/2013 08:42",
-		"asJsonString" : "PaulDeBruicker 9/5/2013 09:24",
-		"ascending:" : "PaulDeBruicker 4/27/2013 08:42",
-		"addModeTo:" : "PaulDeBruicker 4/27/2013 08:49",
-		"hasMode" : "PaulDeBruicker 4/27/2013 08:43"
+		"mode:" : "ShoYoshida 1/11/2016 10:57",
+		"fieldName:" : "ShoYoshida 1/11/2016 10:38",
+		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 10:52",
+		"fieldName" : "ShoYoshida 1/11/2016 10:38",
+		"missing:" : "ShoYoshida 1/11/2016 11:05",
+		"useMin" : "PaulDeBruicker 4/27/2013 08:50"
 	},
 	"class" : { }
 }

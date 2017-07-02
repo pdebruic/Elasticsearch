@@ -1,0 +1,3 @@
+constants
+type
+	^ 'max'

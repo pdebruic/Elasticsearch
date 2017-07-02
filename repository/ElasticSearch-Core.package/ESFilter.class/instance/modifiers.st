@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 modifiers
-	^ modifiers
+	^ modifiers ifNil:[ modifiers := JsonObject new ]

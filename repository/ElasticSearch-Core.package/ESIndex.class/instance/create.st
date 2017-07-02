@@ -1,7 +1,7 @@
 initialization
 create
-  | response |
+  | response jsonToSend |
+  jsonToSend := self indexCreationJsonSettings asJsonString.
   response := self
-    parseJsonFromString:
-      (self httpClient put: self url data: self indexCreationJsonSettings asJsonString).
+    parseJsonFromString: (self httpClient put: self url data: jsonToSend).
   self ifResponse: response isNotErrorThenDo: [ :someJson | nil ]

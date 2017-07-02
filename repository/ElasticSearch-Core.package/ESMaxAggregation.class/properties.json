@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESAggregation",
+	"category" : "Elasticsearch-Core-Aggregations",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESMaxAggregation",
+	"type" : "normal"
+}

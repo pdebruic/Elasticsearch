@@ -1,13 +1,15 @@
 {
 	"instance" : {
+		"ifResponse:isNotErrorThenDo:" : "ShoYoshida 1/14/2016 00:53",
 		"parseJsonFromString:" : "PaulDeBruicker 4/22/2013 14:31",
-		"ifResponse:isNotErrorThenDo:" : "PaulDeBruicker 06/06/2017 19:38",
-		"httpClient" : "PaulDeBruicker 4/23/2013 13:40",
+		"logToTranscript" : "MasashiUmezawa 6/10/2015 14:08",
+		"name" : "PaulDeBruicker 4/21/2013 21:20",
+		"name:" : "PaulDeBruicker 4/21/2013 21:20",
 		"responseIsError:" : "PaulDeBruicker 4/23/2013 14:59",
 		"errorMessageFor:" : "PaulDeBruicker 4/23/2013 15:07",
+		"httpClient" : "PaulDeBruicker 4/23/2013 13:40",
 		"baseUrl" : "PaulDeBruicker 4/21/2013 21:23",
-		"name" : "PaulDeBruicker 4/21/2013 21:20",
-		"name:" : "PaulDeBruicker 4/21/2013 21:20"
+		"loggingOff" : "ShoYoshida 6/12/2015 18:06"
 	},
 	"class" : { }
 }

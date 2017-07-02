@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ESHTTPClient",
-	"category" : "ElasticSearch-Core",
+	"category" : "Elasticsearch-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

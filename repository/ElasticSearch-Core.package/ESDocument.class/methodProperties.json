@@ -2,6 +2,7 @@
 	"instance" : {
 		"modified" : "PaulDeBruicker 4/22/2013 17:30",
 		"created" : "PaulDeBruicker 4/22/2013 17:30",
+		"deleteFromIndex:" : "ShoYoshida 6/15/2015 20:03",
 		"initialize" : "PaulDeBruicker 9/5/2013 09:24",
 		"addToIndex:" : "PaulDeBruicker 11/6/2014 14:10",
 		"setId" : "PaulDeBruicker 4/22/2013 15:17",
@@ -24,8 +25,8 @@
 		"=" : "PaulDeBruicker 4/22/2013 17:16",
 		"id" : "PaulDeBruicker 4/22/2013 15:12",
 		"content:" : "PaulDeBruicker 4/22/2013 17:28",
-		"id1" : "PaulDeBruicker 4/22/2013 17:16",
 		"index:" : "PaulDeBruicker 4/22/2013 16:41",
+		"id1" : "PaulDeBruicker 4/22/2013 17:16",
 		"urlForIndexing" : "PaulDeBruicker 4/24/2013 10:04",
 		"hasId" : "PaulDeBruicker 4/23/2013 17:37"
 	},

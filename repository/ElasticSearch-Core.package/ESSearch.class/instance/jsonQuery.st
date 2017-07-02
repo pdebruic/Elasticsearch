@@ -1,13 +1,7 @@
-actions
+converting
 jsonQuery
-	^ String
-		streamContents: [ :s | 
-			s nextPut: ${.
-			self queries
-				doWithIndex: [ :eachQuery :idx | 
-					s nextPutAll: eachQuery asJsonString.
-					idx = self queries size
-						ifFalse: [ s nextPutAll: ', ' ] ].
-			self hasSortCriteria
-				ifTrue: [ s nextPutAll: self sortParameters asJsonString ].
-			s nextPut: $} ]
+	self hasSortCriteria
+				ifTrue: [ self requestBodyJson at:'sort' put: self sortParameters. ].
+	self hasAggregations
+				ifTrue: [ self requestBodyJson at:'aggregations' put: self aggregations. ].
+	^ self requestBodyJson asJsonString

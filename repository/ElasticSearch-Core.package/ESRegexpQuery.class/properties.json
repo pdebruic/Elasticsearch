@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ESQuery",
+	"category" : "Elasticsearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"flags",
+		"maxDeterminizedStates"
+	],
+	"name" : "ESRegexpQuery",
+	"type" : "normal"
+}

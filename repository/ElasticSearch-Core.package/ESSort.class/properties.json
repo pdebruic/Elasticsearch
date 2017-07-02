@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
-	"super" : "ESQuery",
-	"category" : "ElasticSearch-Core-QueryDSL",
+	"super" : "Object",
+	"category" : "Elasticsearch-Core-QueryDSL",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
