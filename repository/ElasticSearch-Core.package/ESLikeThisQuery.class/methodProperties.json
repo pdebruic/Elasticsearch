@@ -1,11 +1,8 @@
 {
 	"instance" : {
-		"queryKeyName" : "PaulDeBruicker 04/05/2017 19:01",
-		"maximumQueryTerms:" : "PaulDeBruicker 4/26/2013 08:46",
-		"jsonWriteContentValueOn:" : "ShoYoshida 1/9/2016 10:34",
+		"jsonStringContents" : "PaulDeBruicker 9/5/2013 09:24",
 		"fields:" : "PaulDeBruicker 4/26/2013 08:45",
-		"jsonWriteContentBeginOn:" : "ShoYoshida 1/9/2016 10:32",
-		"jsonWriteContentEndOn:" : "ShoYoshida 1/9/2016 10:32"
+		"maximumQueryTerms:" : "PaulDeBruicker 4/26/2013 08:46"
 	},
 	"class" : { }
 }

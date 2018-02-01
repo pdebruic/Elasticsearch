@@ -1,3 +1,3 @@
-acccessing
-fields: aCollection
-	^ self modifiers at: 'fields' put: aCollection
+as yet unclassified
+fields: aNumber
+	^ self modifiers at: 'fields' put: aNumber

@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"queryType" : "ShoYoshida 1/9/2016 10:29",
 		"ignoreTermFrequency:" : "PaulDeBruicker 4/26/2013 08:40",
 		"minimumSimilaryity:" : "PaulDeBruicker 4/26/2013 08:40",
-		"minimumSimilarity:" : "PaulDeBruicker 4/26/2013 08:41"
+		"minimumSimilarity:" : "PaulDeBruicker 4/26/2013 08:41",
+		"queryName" : "PaulDeBruicker 4/26/2013 08:43"
 	},
 	"class" : { }
 }

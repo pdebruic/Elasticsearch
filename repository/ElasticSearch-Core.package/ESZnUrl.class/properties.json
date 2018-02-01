@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ESUrl",
-	"category" : "Elasticsearch-Core",
+	"category" : "ElasticSearch-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

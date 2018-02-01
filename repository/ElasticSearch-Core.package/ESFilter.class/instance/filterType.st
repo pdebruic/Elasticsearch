@@ -1,3 +1,3 @@
-private
+as yet unclassified
 filterType
 	self subclassResponsibility

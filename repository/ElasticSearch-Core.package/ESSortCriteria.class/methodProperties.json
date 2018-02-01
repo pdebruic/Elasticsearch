@@ -1,16 +1,26 @@
 {
 	"instance" : {
-		"useMax" : "PaulDeBruicker 4/27/2013 08:51",
+		"addOrderTo:" : "PaulDeBruicker 4/27/2013 08:48",
+		"fieldName:" : "PaulDeBruicker 4/27/2013 08:42",
 		"useAvg" : "PaulDeBruicker 4/27/2013 08:51",
-		"sortDescending" : "ShoYoshida 1/11/2016 10:42",
-		"sortAscending" : "ShoYoshida 1/11/2016 10:42",
-		"useSum" : "PaulDeBruicker 4/27/2013 08:51",
-		"mode:" : "ShoYoshida 1/11/2016 10:57",
-		"fieldName:" : "ShoYoshida 1/11/2016 10:38",
-		"jsonWriteContentValueOn:" : "ShoYoshida 1/11/2016 10:52",
-		"fieldName" : "ShoYoshida 1/11/2016 10:38",
-		"missing:" : "ShoYoshida 1/11/2016 11:05",
-		"useMin" : "PaulDeBruicker 4/27/2013 08:50"
+		"mode:" : "PaulDeBruicker 4/27/2013 08:42",
+		"asJsonString" : "PaulDeBruicker 9/5/2013 09:24",
+		"fieldName" : "PaulDeBruicker 4/27/2013 08:42",
+		"mode" : "PaulDeBruicker 4/27/2013 08:42",
+		"jsonStringContents" : "PaulDeBruicker 01/31/2018 17:44",
+		"fieldSettings" : "PaulDeBruicker 01/31/2018 17:13",
+		"useMax" : "PaulDeBruicker 4/27/2013 08:51",
+		"addModeTo:" : "PaulDeBruicker 4/27/2013 08:49",
+		"hasOrder" : "PaulDeBruicker 4/27/2013 08:43",
+		"sortDescending" : "PaulDeBruicker 4/27/2013 08:44",
+		"ascending" : "PaulDeBruicker 4/27/2013 08:42",
+		"sortAscending" : "PaulDeBruicker 4/27/2013 08:44",
+		"hasMode" : "PaulDeBruicker 4/27/2013 08:43",
+		"useMin" : "PaulDeBruicker 4/27/2013 08:50",
+		"ascending:" : "PaulDeBruicker 4/27/2013 08:42",
+		"addUnmappedTypeTo:" : "PaulDeBruicker 01/31/2018 17:42",
+		"unmappedType:" : "PaulDeBruicker 01/31/2018 17:41",
+		"useSum" : "PaulDeBruicker 4/27/2013 08:51"
 	},
 	"class" : { }
 }

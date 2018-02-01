@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"criteria:" : "PaulDeBruicker 4/27/2013 08:55",
+		"initialize" : "PaulDeBruicker 4/27/2013 08:55",
 		"hasSortCriteria" : "PaulDeBruicker 9/15/2014 20:02",
-		"criteria" : "ShoYoshida 1/9/2016 13:19",
-		"byScore" : "PaulDeBruicker 4/27/2013 08:55",
+		"criteria" : "PaulDeBruicker 4/27/2013 08:55",
 		"addCriteria:" : "PaulDeBruicker 4/27/2013 08:56",
-		"jsonWriteOn:" : "ShoYoshida 1/9/2016 13:21"
+		"asJsonString" : "PaulDeBruicker 01/31/2018 17:16",
+		"jsonStringContents" : "PaulDeBruicker 01/31/2018 17:30"
 	},
 	"class" : { }
 }

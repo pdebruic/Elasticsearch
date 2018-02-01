@@ -1,3 +1,3 @@
-accessing
-addSortCriteria: aSortCriteria
-	self sortParameters addCriteria: aSortCriteria
+sorting
+addSortCriteria: anESSortCriteria
+	self sortParameters addCriteria: anESSortCriteria

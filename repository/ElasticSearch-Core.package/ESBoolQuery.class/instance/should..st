@@ -1,3 +1,3 @@
-accessing
-should: aCollection
-	self modifiers at:'should' put: aCollection
+as yet unclassified
+should: anESQuery
+  should := anESQuery

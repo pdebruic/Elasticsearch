@@ -1,3 +1,3 @@
-accessing
+search modifiers
 matchPhrase
-	self type: 'phrase'
+	^ self modifiers at: 'type' put: 'phrase'

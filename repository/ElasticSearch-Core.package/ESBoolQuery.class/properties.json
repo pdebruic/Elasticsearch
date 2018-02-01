@@ -1,11 +1,16 @@
 {
 	"commentStamp" : "",
 	"super" : "ESQuery",
-	"category" : "Elasticsearch-Core-QueryDSL",
+	"category" : "ElasticSearch-Core-QueryDSL",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"filter",
+		"must",
+		"should",
+		"mustNot"
+	],
 	"name" : "ESBoolQuery",
 	"type" : "normal"
 }

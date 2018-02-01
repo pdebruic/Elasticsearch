@@ -1,11 +1,12 @@
 {
 	"commentStamp" : "PaulDeBruicker 4/24/2013 10:16",
 	"super" : "Object",
-	"category" : "Elasticsearch-Core-QueryDSL",
+	"category" : "ElasticSearch-Core-QueryDSL",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"query",
 		"field",
 		"modifiers"
 	],

@@ -1,3 +1,3 @@
 json
-errorMessageFor: aJsonObject 
-^	aJsonObject at:'error'
+errorMessageFor: aJsonObject
+  ^ (aJsonObject at: 'error') asJsonString

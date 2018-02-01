@@ -1,3 +1,3 @@
-accessing
-filter: anObject
-	self modifiers at:'filter' put: anObject
+as yet unclassified
+filter: anESFilter
+  filter := anESFilter

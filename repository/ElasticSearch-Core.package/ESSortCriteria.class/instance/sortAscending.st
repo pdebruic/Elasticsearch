@@ -1,3 +1,3 @@
-accessing
+actions
 sortAscending
-	self modifiers at:'order' put:'asc'.
+	self ascending: true

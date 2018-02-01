@@ -1,3 +1,7 @@
-url creation
+actions
 searchUrl
-	^ self searchUrlWithParams: self uriParameters
+	| indexUrl |
+	indexUrl := self index searchUrl.
+	numberOfResultsToFetch notNil ifTrue:[indexUrl queryAt: 'size' put: numberOfResultsToFetch ].
+	indexOfFirstResult notNil ifTrue:[indexUrl queryAt: 'from' put: indexOfFirstResult ].
+	^indexUrl 

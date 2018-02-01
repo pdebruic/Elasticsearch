@@ -1,3 +1,3 @@
-accessing
+actions
 useMin
 	self mode: 'min'

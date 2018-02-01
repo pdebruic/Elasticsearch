@@ -1,3 +1,3 @@
-accessing
+modifiers
 fields: aFieldOrArrayOfFields
 	^ self modifiers at: 'fields' put: aFieldOrArrayOfFields

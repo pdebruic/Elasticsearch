@@ -1,3 +1,3 @@
-printing
+accessing
 jsonStringContents
-  ^ String streamContents: [ :s | self jsonWriteOn: s ]
+	self subclassResponsibility

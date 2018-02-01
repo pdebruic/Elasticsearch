@@ -1,5 +1,3 @@
-printing
+accessing
 jsonWriteOn: aStream
-	
-	self jsonWriteContentOn: aStream.
-	
+  aStream nextPutAll: self asJsonString

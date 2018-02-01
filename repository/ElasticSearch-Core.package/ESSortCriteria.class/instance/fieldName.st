@@ -1,3 +1,3 @@
-deprecated
+accessing
 fieldName
-	^ self field
+	^ fieldName

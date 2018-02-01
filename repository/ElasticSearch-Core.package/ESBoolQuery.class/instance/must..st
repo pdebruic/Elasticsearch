@@ -1,3 +1,3 @@
-accessing
-must: anObject
-	self modifiers at:'must' put: anObject
+as yet unclassified
+must: anESQuery
+  must := anESQuery

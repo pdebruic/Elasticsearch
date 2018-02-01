@@ -1,3 +1,3 @@
-accessing
+search modifiers
 matchPhrasePrefix
-	self type: 'phrase_prefix'
+	^ self modifiers at: 'type' put: 'phrase_prefix'

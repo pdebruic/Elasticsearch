@@ -1,3 +1,0 @@
-constants
-queryType
-	^'match'
