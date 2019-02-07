@@ -22,7 +22,7 @@ baseline: spec
 				group: 'Tests' with: #('ElasticSearch-Tests') ].
 	spec
 		for: #gemstone
-		with: [ spec
+		do: [ spec
 				package: 'ZnHTTPLoggingGemStone'
 				with: [ spec requires: #('ZincHTTPComponents') ].
 			spec
