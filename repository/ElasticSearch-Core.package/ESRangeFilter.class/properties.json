@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ESFilter",
+	"category" : "ElasticSearch-Core-Filter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"field",
+		"from",
+		"to"
+	],
+	"name" : "ESRangeFilter",
+	"type" : "normal"
+}

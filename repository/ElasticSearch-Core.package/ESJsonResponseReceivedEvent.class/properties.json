@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESClientEvent",
+	"category" : "ElasticSearch-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESJsonResponseReceivedEvent",
+	"type" : "normal"
+}

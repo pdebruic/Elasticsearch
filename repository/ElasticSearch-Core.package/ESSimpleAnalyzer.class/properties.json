@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ESAnalyzer",
-	"category" : "ElasticSearch-Core",
+	"category" : "ElasticSearch-Core-Analyzer",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

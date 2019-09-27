@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ESStringMappingProperty",
-	"category" : "ElasticSearch-Core",
+	"category" : "ElasticSearch-Core-Mapping",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

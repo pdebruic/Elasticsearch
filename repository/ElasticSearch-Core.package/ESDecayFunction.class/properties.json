@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESModifiableObject",
+	"category" : "ElasticSearch-Core-Functions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESDecayFunction",
+	"type" : "normal"
+}

@@ -1,6 +1,3 @@
-as yet unclassified
-onField: aFieldToFilter forValue: aSingleTerm
-	| obj |
-	obj := JsonObject new.
-	obj at: aFieldToFilter put: aSingleTerm.
-	self modifiers at: self filterType put: obj
+public
+onField: aField forValue: anObject
+	self modifiers at: aField put: anObject.

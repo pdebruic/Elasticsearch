@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ESAPISearch",
-	"category" : "ElasticSearch-Core",
+	"category" : "ElasticSearch-Core-Search",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

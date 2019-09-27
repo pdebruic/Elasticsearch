@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESFilter",
+	"category" : "ElasticSearch-Core-Filter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESNotFilter",
+	"type" : "normal"
+}
