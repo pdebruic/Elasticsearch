@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESMappingProperty",
+	"category" : "ElasticSearch-Core-Mapping",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESGeoMappingProperty",
+	"type" : "normal"
+}

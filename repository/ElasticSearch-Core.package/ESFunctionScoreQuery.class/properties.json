@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ESQuery",
+	"category" : "ElasticSearch-Core-QueryDSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ESFunctionScoreQuery",
+	"type" : "normal"
+}
