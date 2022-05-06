@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 6/16/2014 14:01",
+	"super" : "ZnClientLogEvent",
+	"category" : "ZincHTTPLoggingGemStone",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"exception"
+	],
+	"name" : "ZnClientRetryingEvent",
+	"type" : "normal"
+}

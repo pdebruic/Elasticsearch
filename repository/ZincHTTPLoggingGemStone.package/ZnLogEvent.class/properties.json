@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "SvenVanCaekenberghe 6/11/2014 14:20",
+	"super" : "Announcement",
+	"category" : "ZincHTTPLoggingGemStone",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IdCounter",
+		"LogEventAnnouncer"
+	],
+	"instvars" : [
+		"timestamp",
+		"id"
+	],
+	"name" : "ZnLogEvent",
+	"type" : "normal"
+}

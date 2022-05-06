@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"printOneLineOn:" : "SvenVanCaekenberghe 6/30/2014 17:13",
+		"printOneLineContentsOn:" : "SvenVanCaekenberghe 6/30/2014 17:13",
+		"nextId" : "SvenVanCaekenberghe 6/11/2014 14:04",
+		"id" : "SvenVanCaekenberghe 6/11/2014 13:58",
+		"timestamp" : "SvenVanCaekenberghe 6/11/2014 13:59",
+		"printContentsOn:" : "SvenVanCaekenberghe 6/30/2014 16:52",
+		"initialize" : "SvenVanCaekenberghe 7/1/2015 15:14",
+		"printOn:" : "SvenVanCaekenberghe 6/30/2014 16:52",
+		"emit" : "SvenVanCaekenberghe 6/11/2014 13:58",
+		"announcer" : "SvenVanCaekenberghe 6/11/2014 13:58"
+	},
+	"class" : {
+		"logToTranscript" : "SvenVanCaekenberghe 2/11/2015 15:23",
+		"announcer" : "SvenVanCaekenberghe 6/11/2014 13:58",
+		"initialize" : "PaulDeBruicker 11/24/2016 15:38",
+		"open" : "SvenVanCaekenberghe 6/11/2014 13:57",
+		"nextId" : "SvenVanCaekenberghe 6/11/2014 13:57",
+		"stopLoggingToTranscript" : "SvenVanCaekenberghe 3/18/2015 11:45",
+		"startUp" : "SvenVanCaekenberghe 6/11/2014 13:57"
+	}
+}
