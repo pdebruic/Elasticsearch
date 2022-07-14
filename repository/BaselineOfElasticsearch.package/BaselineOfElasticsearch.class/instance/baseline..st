@@ -6,11 +6,8 @@ baseline: spec
 		do: [ spec
 				baseline: 'ZincHTTPComponents'
 					with: [ spec repository: 'github://svenvc/zinc/repository' ];
-				project: 'JSON'
-					with: [ spec
-						className: 'ConfigurationOfJSON';
-						versionString: #stable;
-						repository: 'http://smalltalkhub.com/mc/PharoExtras/JSON/main' ].
+				baseline: 'JSON'
+				        with: [ spec repository: 'github://pdebruic/JSON:main/repository' ].
 			spec
 				package: 'ElasticSearch-Core'
 					with: [ spec requires: #('ZincHTTPComponents' 'JSON') ];
@@ -23,8 +20,8 @@ baseline: spec
 	spec
 		for: #gemstone
 		do: [ spec
-				package: 'ZnHTTPLoggingGemStone'
+				package: 'ZincHTTPLoggingGemStone'
 				with: [ spec requires: #('ZincHTTPComponents') ].
 			spec
 				package: 'ElasticSearch-Core'
-				with: [ spec requires: #('ZnHTTPLoggingGemStone') ] ]
+				with: [ spec requires: #('ZincHTTPLoggingGemStone') ] ]
