@@ -3,7 +3,7 @@ jsonStringContents
   | jObj1 jObj2 |
   jObj1 := JsonObject new.
   filter notNil
-    ifTrue: [ jObj1 at: 'filter' put: filter jsonStringContents ].
+    ifTrue: [  jObj1 at: 'filter' put: filter jsonStringContents ].
   must notNil
     ifTrue: [ jObj1 at: 'must' put: must jsonStringContents ].
   mustNot notNil

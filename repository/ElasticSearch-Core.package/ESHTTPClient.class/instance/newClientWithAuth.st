@@ -1,0 +1,3 @@
+accessing
+newClientWithAuth
+	self subclassResponsibility 

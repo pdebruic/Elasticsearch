@@ -1,3 +1,6 @@
 as yet unclassified
 jsonStringContents
-	^ self modifiers
+
+	^ JsonObject new
+		  at: self filterType put: self modifiers;
+		  yourself

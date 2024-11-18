@@ -1,8 +1,15 @@
 {
 	"instance" : {
+		"head:" : "PaulDeBruicker 11/8/2024 05:40",
+		"newClientWithAuth" : "PaulDeBruicker 11/7/2024 19:34",
+		"get:data:" : "PaulDeBruicker 11/8/2024 05:38",
 		"defaultUrl" : "PaulDeBruicker 4/24/2013 09:59",
+		"defaultClient" : "PaulDeBruicker 4/21/2013 21:37",
+		"delete:" : "PaulDeBruicker 11/8/2024 05:39",
+		"get:" : "PaulDeBruicker 11/8/2024 05:39",
+		"post:data:" : "PaulDeBruicker 11/8/2024 05:40",
 		"baseUrl" : "PaulDeBruicker 4/24/2013 10:00",
-		"defaultClient" : "PaulDeBruicker 4/21/2013 21:37"
+		"put:data:" : "PaulDeBruicker 11/7/2024 19:35"
 	},
 	"class" : { }
 }

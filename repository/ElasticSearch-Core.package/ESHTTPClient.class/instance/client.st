@@ -1,3 +1,3 @@
 accessing
 client
-	^ client ifNil: [ client := self defaultClient new ]
+	^ client ifNil: [ client := self newClientWithAuth ]

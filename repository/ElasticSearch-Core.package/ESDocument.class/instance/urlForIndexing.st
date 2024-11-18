@@ -2,5 +2,5 @@ urls
 urlForIndexing
 	^ self baseUrl
 		addToPath: self index name;
-		addToPath: self type;
+		addToPath: '_doc';
 		addToPath: self id

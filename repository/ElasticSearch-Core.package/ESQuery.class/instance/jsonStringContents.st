@@ -1,3 +1,6 @@
 accessing
 jsonStringContents
-	self subclassResponsibility
+
+	^ JsonObject new
+		  at: self defaultField put: modifiers;
+		  yourself

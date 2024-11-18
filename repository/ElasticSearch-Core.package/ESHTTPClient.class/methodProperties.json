@@ -2,23 +2,26 @@
 	"instance" : {
 		"hostName" : "PaulDeBruicker 4/21/2013 21:26",
 		"head:" : "PaulDeBruicker 4/24/2013 10:08",
+		"headerAt:put:" : "PaulDeBruicker 11/7/2024 19:14",
 		"port" : "PaulDeBruicker 4/21/2013 21:26",
-		"url" : "PaulDeBruicker 4/24/2013 09:55",
+		"newClientWithAuth" : "PaulDeBruicker 11/7/2024 19:19",
 		"get:data:" : "PaulDeBruicker 4/24/2013 10:08",
 		"defaultUrl" : "PaulDeBruicker 4/24/2013 09:59",
+		"url" : "PaulDeBruicker 4/24/2013 09:55",
 		"delete:" : "PaulDeBruicker 4/24/2013 10:09",
 		"typeExistsAt:" : "PaulDeBruicker 4/24/2013 10:08",
 		"get:" : "PaulDeBruicker 4/24/2013 10:07",
 		"post:data:" : "PaulDeBruicker 4/24/2013 10:08",
 		"indexExistsAt:" : "PaulDeBruicker 4/24/2013 10:08",
 		"put:data:" : "PaulDeBruicker 4/24/2013 10:08",
-		"client" : "PaulDeBruicker 4/21/2013 21:37"
+		"client" : "PaulDeBruicker 11/7/2024 19:19"
 	},
 	"class" : {
-		"httpClient" : "pad 09/05/2013 10:23",
-		"resetClient" : "pad 09/05/2013 10:22",
+		"httpClient" : "PaulDeBruicker 11/7/2024 19:13",
+		"elasticPassword" : "PaulDeBruicker 11/9/2024 08:38",
+		"defaultHttpClient" : "PaulDeBruicker 4/21/2013 20:34",
 		"defaultPort" : "PaulDeBruicker 4/21/2013 21:27",
 		"defaultHostName" : "PaulDeBruicker 4/21/2013 21:27",
-		"defaultHttpClient" : "PaulDeBruicker 4/21/2013 20:34"
+		"resetClient" : "pad 09/05/2013 10:22"
 	}
 }
