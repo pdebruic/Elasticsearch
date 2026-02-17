@@ -7,7 +7,6 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"serverId"
-	
 	],
 	"name" : "ZnServerLogEvent",
 	"type" : "normal"
